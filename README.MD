@@ -9,6 +9,6 @@ npm start
 ## Path to start program 
 ```
 bin/www
-tom
+
 ```
 ### running on port: `3000`
